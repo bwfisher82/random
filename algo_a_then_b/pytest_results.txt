@@ -1,0 +1,21 @@
+============================= test session starts =============================
+collecting ... collected 14 items
+
+test_algo_a_then_b.py::test_a_then_b[a] PASSED                           [  7%]
+test_algo_a_then_b.py::test_a_then_b[b] PASSED                           [ 14%]
+test_algo_a_then_b.py::test_a_then_b[c] PASSED                           [ 21%]
+test_algo_a_then_b.py::test_a_then_b[d] PASSED                           [ 28%]
+test_algo_a_then_b.py::test_a_then_b[e] PASSED                           [ 35%]
+test_algo_a_then_b.py::test_a_then_b[f] PASSED                           [ 42%]
+test_algo_a_then_b.py::test_a_then_b[g] PASSED                           [ 50%]
+test_algo_a_then_b.py::test_a_then_b[h] PASSED                           [ 57%]
+test_algo_a_then_b.py::test_a_then_b[i] PASSED                           [ 64%]
+test_algo_a_then_b.py::test_a_then_b[j] PASSED                           [ 71%]
+test_algo_a_then_b.py::test_a_then_b[k] PASSED                           [ 78%]
+test_algo_a_then_b.py::test_a_then_b[l] PASSED                           [ 85%]
+test_algo_a_then_b.py::test_a_then_b[m] PASSED                           [ 92%]
+test_algo_a_then_b.py::test_a_then_b[n] PASSED                           [100%]
+
+============================= 14 passed in 0.14s ==============================
+
+Process finished with exit code 0
